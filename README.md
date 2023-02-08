@@ -52,11 +52,7 @@
  <a href="https://www.w3schools.com/sql/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/79988192/217674708-9e413c3e-7f8c-46d8-aaa7-3da1a3779c08.png" alt="SQL" height="50" /></a> 
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
