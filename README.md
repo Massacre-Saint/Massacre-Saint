@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jacob, a full-stack engineer. Coding and coffee are my full-time jobs. Come say hi!</div>  
   
 
-- 🔭 I’m currently working on [Dialing-In](https://github.com/Massacre-Saint/Dialing-In.v2)  
+- 🔭 I’m currently working on a [Code COnfidence] feature(https://github.com/Massacre-Saint/Code-Confidence)  
   
 
 - 🌱 I’m currently learning Python/Django and buidling upon UX/UI!  
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to REST API's and UX/UI  
   
 
-- ⚡ Fun fact: You can learn everything about anything for free.  
+- ⚡ Fun fact: You can learn everything about anything for free, especially with ChatGPT 3 ;)
   
 
 <br/>  
