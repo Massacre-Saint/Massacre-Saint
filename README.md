@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jacob, a full-stack engineer. Coding and coffee are my full-time jobs. Come say hi!</div>  
   
 
-- 🔭 I’m currently working on a [Code COnfidence] feature(https://github.com/Massacre-Saint/Code-Confidence)  
+- 🔭 I’m currently working on a bookmark feature in my app [Code COnfidence](https://github.com/Massacre-Saint/Code-Confidence)  
   
 
 - 🌱 I’m currently learning Python/Django and buidling upon UX/UI!  
