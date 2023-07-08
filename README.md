@@ -1,9 +1,6 @@
 <div align="center">
-<video width="320" height="240" controls>
-  <source src="https://imgur.com/a/E0Qybf4" type="video/mp4">
-</video>
+<img src="https://github.com/Massacre-Saint/Massacre-Saint/assets/79988192/653524c3-a9e3-4008-adb5-dff8550ecf9d" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Jacob, a full-stack engineer. Coding and coffee are my full-time jobs. Come say hi!</div>  
   
