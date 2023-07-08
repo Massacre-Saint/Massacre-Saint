@@ -9,17 +9,15 @@
 - 🔭 I’m currently working on a bookmark feature in my app [Code Confidence](https://github.com/Massacre-Saint/Code-Confidence)  
   
 <br/>  
-| **Name**            | **Deployed Site**                    | **Repo** | **Language** | **null** |
-|---------------------|--------------------------------------|----------|--------------|----------|
-| **Code Confidence** | https://code-confidence.netlify.app/ | FE BE    | JS, Python   |          |
-| **Dialing In.v2**   | https://dialing-in.netlify.app/      | FE BE    | JS           |          |
-| **Phonebook**       |                                      | FE       | Vue, JS      |          |
-| **Halo Roster**     | https://halo-teams.netlify.app/      | FE       | JS           |          |
-| ****                |                                      |          |              |          |
-| ****                |                                      |          |              |          |
-| ****                |                                      |          |              |          |
-| ****                |                                      |          |              |          |
-| ****                |                                      |          |              |          |
+
+ **Name**            | **Deployed Site**                    | **Repo** | **Language** 
+---------------------|--------------------------------------|----------|--------------
+ **Code Confidence** | https://code-confidence.netlify.app/ | FE BE    | JS, Python   
+ **Dialing In.v2**   | https://dialing-in.netlify.app/      | FE BE    | JS           
+ **Phonebook**       |                                      | FE       | Vue, JS      
+ **Halo Roster**     | https://halo-teams.netlify.app/      | FE       | JS           
+
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
