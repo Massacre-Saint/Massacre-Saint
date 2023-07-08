@@ -6,18 +6,8 @@
 ### <div align="center">I'm Jacob, a full-stack engineer. Coding and coffee are my full-time jobs. Come say hi!</div>  
   
 
-- 🔭 I’m currently working on a bookmark feature in my app [Code COnfidence](https://github.com/Massacre-Saint/Code-Confidence)  
+- 🔭 I’m currently working on a bookmark feature in my app [Code Confidence](https://github.com/Massacre-Saint/Code-Confidence)  
   
-
-- 🌱 I’m currently learning Python/Django and buidling upon UX/UI!  
-  
-
-- ❓ Ask me about anything related to REST API's and UX/UI  
-  
-
-- ⚡ Fun fact: You can learn everything about anything for free, especially with ChatGPT 3 ;)
-  
-
 <br/>  
 
 
