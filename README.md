@@ -5,7 +5,7 @@
 ### <div align="center">I'm Jacob, a full-stack engineer. Coding and coffee are my full-time jobs. Come say hi!</div>  
   
 
-- 🔭 I'm currently working on simple applications in Vue.js 
+- 🔭 I'm currently working on learning Blender and Three.js. 
   
 <br/>  
 
